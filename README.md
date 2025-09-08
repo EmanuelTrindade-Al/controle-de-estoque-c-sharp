@@ -15,3 +15,10 @@ Permite cadastrar produtos, registrar entradas e saídas e listar o estoque em u
 - WinForms  
 
 ## 📂 Estrutura do Projeto
+ControleEstoqueWin/
+│-- Produto.cs
+│-- Form1.cs
+│-- Form1.Designer.cs
+│-- Program.cs
+│-- ControleEstoqueWin.csproj
+
