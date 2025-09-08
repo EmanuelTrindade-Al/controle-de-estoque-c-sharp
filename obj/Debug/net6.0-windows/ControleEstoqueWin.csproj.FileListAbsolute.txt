@@ -1,0 +1,15 @@
+C:\Users\magna\ControleEstoqueWin\bin\Debug\net6.0-windows\ControleEstoqueWin.exe
+C:\Users\magna\ControleEstoqueWin\bin\Debug\net6.0-windows\ControleEstoqueWin.deps.json
+C:\Users\magna\ControleEstoqueWin\bin\Debug\net6.0-windows\ControleEstoqueWin.runtimeconfig.json
+C:\Users\magna\ControleEstoqueWin\bin\Debug\net6.0-windows\ControleEstoqueWin.dll
+C:\Users\magna\ControleEstoqueWin\bin\Debug\net6.0-windows\ControleEstoqueWin.pdb
+C:\Users\magna\ControleEstoqueWin\obj\Debug\net6.0-windows\ControleEstoqueWin.csproj.AssemblyReference.cache
+C:\Users\magna\ControleEstoqueWin\obj\Debug\net6.0-windows\ControleEstoqueWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magna\ControleEstoqueWin\obj\Debug\net6.0-windows\ControleEstoqueWin.AssemblyInfoInputs.cache
+C:\Users\magna\ControleEstoqueWin\obj\Debug\net6.0-windows\ControleEstoqueWin.AssemblyInfo.cs
+C:\Users\magna\ControleEstoqueWin\obj\Debug\net6.0-windows\ControleEstoqueWin.csproj.CoreCompileInputs.cache
+C:\Users\magna\ControleEstoqueWin\obj\Debug\net6.0-windows\ControleEstoqueWin.dll
+C:\Users\magna\ControleEstoqueWin\obj\Debug\net6.0-windows\refint\ControleEstoqueWin.dll
+C:\Users\magna\ControleEstoqueWin\obj\Debug\net6.0-windows\ControleEstoqueWin.pdb
+C:\Users\magna\ControleEstoqueWin\obj\Debug\net6.0-windows\ControleEstoqueWin.genruntimeconfig.cache
+C:\Users\magna\ControleEstoqueWin\obj\Debug\net6.0-windows\ref\ControleEstoqueWin.dll
